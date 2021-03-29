@@ -5,7 +5,7 @@ In the CSV file in this repository, you can find a number of staff members and t
 1. The average salary of staff members whose employee type is "Manager"
 1. The full name of the staff member who has the highest salary
 
-Your Python program file should be named ``staff.py``. Use Python's string formatting to help producing an output that is similar to the sample below. 
+Your Python program file should be named ``staff.py``. Use Python's string formatting to produce an output that is similar to the sample below. 
 
 ## Sample output:
 ```
