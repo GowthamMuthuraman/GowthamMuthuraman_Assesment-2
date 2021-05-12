@@ -64,3 +64,4 @@ target/
 *.code-workspace
 .idea/
 .vscode/
+venv/
