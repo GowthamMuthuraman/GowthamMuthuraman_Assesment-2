@@ -13,6 +13,6 @@ Also, you will be marked with Git commits and branches so make sure you use them
 
 ## Sample output:
 ```
-The average salary is 291,000 dollars.
+The average salary of managers is 72,750 dollars.
 Alice Munro has the highest salary ($125000.00).
 ```
