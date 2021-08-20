@@ -3,7 +3,7 @@
 In the CSV file in this repository, you can find a number of staff members and their salaries. Compute the following and display on the screen:
 
 1. The average salary of staff members whose employee type is "Manager"
-1. The full name of the staff member who has the highest salary
+1. The full name of the staff member who has the lowest salary
 
 Your Python program file should be named ``staff.py``. Use Python's string formatting to produce an output that is similar to the sample below.
 
@@ -14,5 +14,5 @@ Also, you will be marked with Git commits and branches so make sure you use them
 ## Sample output:
 ```
 The average salary of managers is 72,750 dollars.
-Alice Munro has the highest salary ($125000.00).
+Paul Innit has the lowest salary ($41000.00).
 ```
