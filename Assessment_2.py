@@ -10,3 +10,5 @@ Avg = E['salary'].mean()
 Low_Salary = Emp['salary'].min()
 print(Low_Salary)
 
+Low_Salary_Record = Emp[Emp['salary'] == Low_Salary]
+#  Details of the lowest salaried employee
